@@ -14,7 +14,8 @@ and log readings over Serial every second.
 
 LM35:  VCC→5V, OUT→A0, GND→GND
 LCD:   VCC→5V, GND→GND, SDA→A4, SCL→A5
-<img width="778" height="537" alt="Screenshot 2026-07-16 143234" src="https://github.com/user-attachments/assets/9adc1837-2121-4389-98fc-218062d49fae" />
+<img width="778" height="537" alt="Screenshot 2026-07-16 143234" src="https://github.com/user-attachments/assets/f728b1c7-fce8-4f12-a805-6d2b0d443653" />
+
 
 
 ## How It Works
@@ -26,8 +27,12 @@ LCD:   VCC→5V, GND→GND, SDA→A4, SCL→A5
 ## Demo and Report
 https://drive.google.com/drive/folders/1Pq10raCweL3mtMODlF8-4UBel3AF8rnn?usp=sharing
 ## images
-<img width="1600" height="1200" alt="WhatsApp Image 2026-07-16 at 2 29 19 PM" src="https://github.com/user-attachments/assets/f7e3276b-b84a-412c-9176-104215a988a9" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-16 at 2 29 19 PM" src="https://github.com/user-attachments/assets/3e1b276a-880e-442b-a2d8-80b59da37ce5" />
+
 ## video 
 
-https://github.com/user-attachments/assets/111dac8b-3270-4599-aa8b-b2c20d133592
+
+https://github.com/user-attachments/assets/f488a5ce-6b50-49a5-a0f6-47b8f7c6d578
+
+
 
